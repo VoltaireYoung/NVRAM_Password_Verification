@@ -61,7 +61,7 @@
 </ol>
 
 ## Authors and acknowledgment
-Author: Voltaire Chen (Voltaire_Chen@pegatroncorp.com)
+Author: Voltaire Chen 
 
 ## Support
-Voltaire Chen (Voltaire_Chen@pegatroncorp.com)
+Voltaire Chen 
